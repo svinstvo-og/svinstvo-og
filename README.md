@@ -1,4 +1,4 @@
-### Maksym Koval ⚡️
+### Maksym Koval
 
 Java Backend Engineer | Prague
 
@@ -7,6 +7,6 @@ Java Backend Engineer | Prague
 Building _high-throughput_ Spring Boot systems with Kafka, PostgreSQL, and Kubernetes.
 I care about reliability, uptime, and speed - nothing else.
 
-🚀 Currently at Runly Online — designing event-driven automation pipelines.
+Currently at **Runly Online** — designing event-driven automation pipelines.
 
-🎓 3rd year CS @ ČVUT in Prague — thesis on fraud detection microservices.
+3rd year CS @ **ČVUT** in Prague — thesis on fraud detection microservices.
